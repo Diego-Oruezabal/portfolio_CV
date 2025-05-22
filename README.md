@@ -11,7 +11,7 @@
 📦 Proyecto estático, sin necesidad de frameworks ni instalaciones.
 
 ## 📸 Vista previa
-cv-portfolius.netlify.app
+https://diego-oruezabal.github.io/portfolio_CV/
 
 ## 🚀 Instalación y uso
 ```bash
@@ -24,9 +24,7 @@ cd portfolio_CV
 ## Abre el archivo index.html en tu navegador.
 ```
 ## 🧪 Estructura del proyecto
-bash
-Copiar
-Editar
+```bash
 ├── css/
 │   └── estilos.css
 ├── img/
@@ -37,7 +35,7 @@ Editar
 ├── tecnologias.html
 ├── plantilla.html
 └── README.md
-
+```
 
 ## 🛠 Tecnologías utilizadas
 HTML
